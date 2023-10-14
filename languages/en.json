@@ -1,0 +1,14 @@
+{
+  "profile": {
+    "rol": "Full Stack developer",
+    "description": "Hello, my name is Felipe, I am 18 years old and I am a passionate student of systems engineering. My cheerful and creative personality drives me to approach programming challenges with enthusiasm. Additionally, my ability to lead and collaborate as a team helps me achieve solid results. I am always excited to learn and grow in this ever-evolving field."
+  },
+  "experience": {
+    "first-job-title": "Full Stack developer",
+    "first-job-dates": "Octubre 2023",
+    "first-job-description": "Hello! I am a young passionate about programming with full stack skills, motivated by creativity and always looking for new challenges. My approach goes further: I not only seek to create technical solutions, but also greatly consider user satisfaction and ease of use in each project. Although my work experience is limited, I am eager to apply my knowledge in innovative ways",
+    "second-job-title": "Back-end Developer",
+    "second-job-dates": "Abril 2023",
+    "second-job-description": "I discovered the magic of backend programming with the aim of enhancing my projects and taking them to a higher level in all aspects. Despite my limited experience, my enthusiasm for learning remains unwavering, driving me to constantly seek the knowledge necessary to achieve my goals. The desire to learn knows no limits!"
+  }
+}
